@@ -6,3 +6,4 @@
 /data/goodreads_sample_submission.csv
 /data/goodreads_book_works.json
 /db/*.db
+/db/*.sqlite
