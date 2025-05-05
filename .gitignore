@@ -5,3 +5,4 @@
 /data/goodreads-books-reviews-290312.zip
 /data/goodreads_sample_submission.csv
 /data/goodreads_book_works.json
+/db/*.db
