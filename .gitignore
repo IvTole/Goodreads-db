@@ -1,2 +1,6 @@
 **/__pycache__
 **/.DS_Store
+data/goodreads_test.csv
+data/goodreads_train.csv
+data/goodreads-books-reviews-290312.zip
+data/goodreads_sample_submission.csv
